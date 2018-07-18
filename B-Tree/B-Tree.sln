@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B-Tree", "B-Tree\B-Tree.csproj", "{709901C8-DAC6-47B4-94B8-FA58DCA0EF3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTreeTests", "BTreeTests\BTreeTests.csproj", "{9CF4CD8B-5B7D-47A7-BE6F-162B0633C924}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{709901C8-DAC6-47B4-94B8-FA58DCA0EF3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{709901C8-DAC6-47B4-94B8-FA58DCA0EF3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{709901C8-DAC6-47B4-94B8-FA58DCA0EF3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{709901C8-DAC6-47B4-94B8-FA58DCA0EF3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CF4CD8B-5B7D-47A7-BE6F-162B0633C924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF4CD8B-5B7D-47A7-BE6F-162B0633C924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF4CD8B-5B7D-47A7-BE6F-162B0633C924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF4CD8B-5B7D-47A7-BE6F-162B0633C924}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1B62072-8CE5-4543-A214-86DCA70B946E}
+	EndGlobalSection
+EndGlobal
